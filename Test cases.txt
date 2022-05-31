@@ -1,0 +1,2 @@
+Verify that the "login field" accepts valid data.
+Verify that "password field" accepts valid data.
